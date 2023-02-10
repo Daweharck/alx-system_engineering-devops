@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mktemp "XXX my_first_directory"
-=======
-mkdir "my_first_directory" > tmp
->>>>>>> c33f437ff52e23721dcb5c6786bbc376d82e0781
