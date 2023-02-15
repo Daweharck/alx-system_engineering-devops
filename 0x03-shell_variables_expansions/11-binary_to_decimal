@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 11-binary_to_decimalho $((2#$BINARY))
+ec11-binary_to_decimalho $((2#$BINARY))
