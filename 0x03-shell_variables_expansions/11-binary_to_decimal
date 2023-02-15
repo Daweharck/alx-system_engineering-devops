@@ -1,0 +1,2 @@
+#!/bin/bash
+ec11-binary_to_decimalho $((2#$BINARY))
